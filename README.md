@@ -1,3 +1,3 @@
 # kvrtrss-illust
-A personal HTML/CSS passion project serving as an archive and gallery for my illustrations, sketches, and drawing practice.
+A practice HTML/CSS project serving just a visual/design practice
 Progress: working on it
